@@ -2,7 +2,7 @@
 
 ## Descripción
 
-[Pequeño script muestra si el año es bisiesto o no.<br>Un año es bisiesto cuando:
+[Pequeño script muestra si el año es bisiesto o no.<br><br>Un año es bisiesto cuando:
 - Es divisible por 4 pero NO por 100
 - Es divisible por 4, por 100 y por 400]
 
